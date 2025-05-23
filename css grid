@@ -1,7 +1,13 @@
+
 <!DOCTYPE html>
 <html>
 <head>
 <nav>
+<ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Photos</a></li>
+      <li><a href="#">Contact</a></li>
  </nav>
   <title>Pat website</title>
 </head>
@@ -10,3 +16,4 @@
   <p>This is my first HTML page.</p>
 </body>
 </html>
+
