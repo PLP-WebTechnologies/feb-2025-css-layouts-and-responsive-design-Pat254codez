@@ -1,16 +1,12 @@
-  }
-
-    /* Grid layout */
-    .grid-layout {
-      display: grid;
-      grid-template-rows: auto 1fr auto;
-      grid-template-columns: 1fr;
-      min-height: 100vh;
-    }
-}
-
-    @media (max-width: 768px) {
-      main {
-        grid-template-columns: 1fr;
-        padding: 20px;
-      }
+<!DOCTYPE html>
+<html>
+<head>
+<nav>
+ </nav>
+  <title>Pat website</title>
+</head>
+<body>
+  <h1>Sunshine and flowers!</h1>
+  <p>This is my first HTML page.</p>
+</body>
+</html>
